@@ -1,2 +1,2 @@
-TOKEN = '6752050507:AAEQK7kmBs3MubarWTQA71_hb2ZgJlLTQE0'
+TOKEN = 'Imput there your TG token'
 DATABASE = 'my_project.db'
