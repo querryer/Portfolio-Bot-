@@ -3,7 +3,8 @@
    
 <summary><b>Here you can find some info🙌</b></summary>
 
-    😇This bot can help you to save your projects in one bot
+    😇This bot can help you to save your projects
+    in one bot
 
     🤔You can also delete projects
     
